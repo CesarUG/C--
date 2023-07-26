@@ -15,6 +15,7 @@ public class new_Proyect {
     }
 
     public static int Sum(int a,int b){
+        System.out.println("INICIA LA FUNCIÓN");
         int sum = a+b;
         return sum;
     };
